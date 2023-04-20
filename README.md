@@ -12,4 +12,4 @@ To run the code just run:
 python ddpm.py
 ```
 
-This code uses the [landscape dataset](https://www.kaggle.com/datasets/arnaud58/landscape-pictures).
+Be sure to change the paths, according to your needs. This code uses the [landscape dataset](https://www.kaggle.com/datasets/arnaud58/landscape-pictures).
