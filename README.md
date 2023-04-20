@@ -10,7 +10,6 @@ This code implements the ddpm paper without classifier free guidance, I trained 
 To run the code just run:
 ```python
 python ddpm.py
-
-Please visit [Google](https://www.google.com) for more information.
+```
 
 This code uses the [landscape dataset](https://www.kaggle.com/datasets/arnaud58/landscape-pictures).
