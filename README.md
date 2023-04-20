@@ -4,7 +4,9 @@ I've been trying to understand diffusion models and just reading about it was tr
 
 This code implements the ddpm paper without classifier free guidance, I trained this system on google colab and due to this I could not train this model for a long time, but here in the images below you can see that the landscapes are getting better and better, if you can train this model for more epochs you will obtain really good results
 
-![Screenshot](Screenshot_11.jpg)
-![Screenshot](Screenshot_12.jpg)
+<img src="Screenshot_11.jpg" width="400">
+<img src="Screenshot_12.jpg" width="400">
+
+
 
 
