@@ -8,5 +8,5 @@ This code implements the ddpm paper without classifier free guidance, I trained 
 <img src="Screenshot_12.jpg" width="300">
 
 To run the code just run:
-'''
+```python
 python ddpm.py
